@@ -9,7 +9,7 @@
 - Project
 You can check out some of my work and projects on my GitHub profile
 - Skills
-📊 Data Analysis
+* 📊 Data Analysis
 📈 Data Visualization
 💻 Python
 📉 Power bi
